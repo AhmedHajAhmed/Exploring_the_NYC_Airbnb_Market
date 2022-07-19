@@ -1,6 +1,6 @@
 # Exploring_the_NYC_Airbnb_Market
 
-<img src="Airbnb.png" width="480" height="240">
+<img src="Airbnb.png" >
 
 ## 1. Importing the Data
 <p><img src="https://assets.datacamp.com/production/project_1230/img/nyc.jpg" alt="New York City skyline" width="600px">
