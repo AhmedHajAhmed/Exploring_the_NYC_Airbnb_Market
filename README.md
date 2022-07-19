@@ -1,9 +1,7 @@
 # Exploring_the_NYC_Airbnb_Market
 
-<img src="Airbnb.png" >
+<img src="Airbnb.png" width=1280 width=400 >
 
-## 1. Importing the Data
-<p><img src="https://assets.datacamp.com/production/project_1230/img/nyc.jpg" alt="New York City skyline" width="600px">
 <br>
 New York City (NYC) is one of the most-visited cities in the world. 
 As a result, there are many <a href="https://www.airbnb.com/"><em>Airbnb</em></a> listings to meet the high demand for temporary lodging for anywhere between a few nights to many months. 
