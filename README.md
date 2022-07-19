@@ -1,6 +1,6 @@
 # Exploring_the_NYC_Airbnb_Market
 
-<img src="Airbnb.png" width=1280 width=400 >
+<img src="Airbnb.png" width=640 width=200 >
 
 <br>
 New York City (NYC) is one of the most-visited cities in the world. 
